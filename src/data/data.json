@@ -1,0 +1,147 @@
+{
+  "data": {
+    "fullName": "Kesavan S",
+    "logo" : "logo.png",
+    "email" : "kesavansunder007@gmail.com",
+    "titleArray": [
+      "MERN Stack Developer",
+      "Full-Stack Web Developer"
+      
+    ],
+    "resumeLink": "https://drive.google.com/file/d/1HP8qG_Awi58FPKzpl2qdyg7Ts5wyZD9e/view?usp=drive_link",
+    "aboutDescription": 
+    [
+      "Hello! I'm Kesavan, a proficient full-stack web developer based in Madurai, India.", 
+      "Since my first coding venture, I’ve been captivated by the world of technology. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), React Native, and MongoDB, with a passion for creating seamless, scalable applications.",
+      "I’m currently focusing on developing apps that enhance user experiences, streamline business operations, and provide innovative solutions. I also have experience in mobile app development with React Native and enjoy combining design with development to create intuitive, user-friendly UIs.",
+      "If you're intrigued by my work and the projects I’ve been working on, feel free to explore them below or reach out for potential collaborations!"
+    ],
+    "aboutImage" : "my img.jpg",
+    "skills": 
+    [
+      {
+        "title" : "Frontend",
+        "skillname": [
+          {"name": "react native","image":"react"},
+          {"name" : "React", "image": "react"}, 
+          {"name" : "HTML", "image": "html"}, 
+          {"name" : "CSS", "image": "css"}, 
+          {"name" : "JavaScript", "image": "javascript"}, 
+          {"name" : "BootStrap", "image": "bs"}
+          ]
+      },
+      {
+        "title" : "Backend",
+        "skillname": [
+          {"name" : "Node Js", "image": "node"},
+          {"name" : "Express Js", "image": "express"}, 
+          {"name" : "NPM", "image": "npm"},
+          {"name" : "MongoDB", "image": "mdb"},
+          {"name" : "Postman", "image": "mysql"}]
+      },
+      {
+        "title" : "Others",
+        "skillname": [
+         
+          {"name" : "Git", "image": "git"}, 
+          {"name" : "GitHub", "image": "github"}, 
+          {"name" : "Expogo", "image": "netlify"}, 
+          {"name" : "Photoshop", "image": "ps"},
+          {"name" : "Illustrator", "image": "ill"}]
+      }
+    ],
+    "projects" : [
+      
+      {
+        "projectName" : "Cafe-7 app",
+        "projectType" : "React Native",
+        "projectImage" : [
+        "Project1/cafe.png"
+      ],
+        "techStack" : [
+        
+        ],
+        "description" : "The Café7 application is designed to transform the way customers interact with their favorite café, providing an intuitive and engaging experience through React Native, Expo, and MongoDB",
+        "githubLink" : "https://github.com/kesav2807/Cafe-7",
+        "liveLink" : "https://docs.google.com/presentation/d/1bNGVS7dnOkNvGLOXjmvXAzT_ceHvpCS6/edit#slide=id.p1"
+      },
+      {
+        "projectName" : "Netflix Clone",
+        "projectType" : "HTML& CSS,JavaScript ",
+        "projectImage" : [
+        "Project2/netflix.png"
+      ],
+        "techStack" : [
+        
+        ],
+        "description" : "NFTLendingContracts is a smart contract backend for an Ethereum-based NFT lending marketplace. It enables lending, borrowing, and liquidation of NFTs with ETH collateral, featuring a fixed 1% daily interest rate.",
+        "githubLink" : "https://github.com/kesav2807/Nefliex",
+        "liveLink" : "https://kesav2807.github.io/Nefliex/"
+      },
+      {
+        "projectName" : "FoodDelivery",
+        "projectType" : "React JS",
+        "projectImage" : [
+        "Project3/fooddel.png"],
+        "techStack" : [
+         
+        ],
+        "description" : "Our Food Delivery Website offers a seamless and responsive ordering experience, built with React.js and JavaScript. Enjoy a user-friendly interface, smooth navigation, and real-time updates for a hassle-free food ordering journey",
+        "githubLink" : "",
+        "liveLink" : "https://fooddeliverywebsite-2s1b.onrender.com"
+      },
+      {
+        "projectName" : "E-Commerce",
+        "projectType" : "React JS",
+        "projectImage" : [
+        "Project4/1.png"],
+        "techStack" : [
+          
+        ],
+        "description" : "Our E-Commerce Website delivers a smooth and interactive shopping experience, built with React.js and JavaScript. Enjoy a responsive design, seamless navigation, and a user-friendly interface for hassle-free online shopping.",
+        "githubLink" : "",
+        "liveLink" : "https://ecom-pegx.onrender.com/"
+      },
+      {
+        "projectName" : "Currency Converter",
+        "projectType" : "HTML& CSS,JavaScript ",
+        "projectImage" : [
+        "Project5/currency.png"
+      ],
+        "techStack" : [
+          
+        ],
+        "description" : "Our Currency Converter provides a fast and accurate exchange rate calculation, built with HTML, CSS, and JavaScript. Enjoy a sleek design, real-time updates, and a user-friendly interface for effortless currency conversion.",
+        "githubLink" : "https://github.com/kesav2807/Currency",
+        "liveLink" : "https://kesav2807.github.io/Currency/"
+      },
+      {
+        "projectName" : "College Transport Management System",
+        "projectType" : "React JS, Node js, Mongodb",
+        "projectImage" : ["Project6/images.png"],
+        "techStack" : [
+
+        ],
+        "description" : "A College Transport Management System using the MERN stack efficiently manages student and staff transportation. It enables users to book seats, track buses in real-time, and receive notifications. Admins can manage routes, schedules, and vehicle details for seamless transport operations.",
+        "githubLink" : "",
+        "liveLink" : "https://transportation-managementsystem-frontnend.onrender.com"
+      },
+      {
+        "projectName" : "Turf Booking application",
+        "projectType" : "React Native, Mongodb, Node js, ",
+        "projectImage" : ["Project7/turf.png"],
+        "techStack" : [
+      
+        ],
+        "description" : "Our Turf Booking Application offers a seamless and efficient booking experience, built with React Native. Enjoy a user-friendly interface, real-time availability updates, and a smooth reservation process for hassle-free turf bookings",
+        "githubLink" : "",
+        "liveLink" : "ppt/Qualifications.pdf"
+      }
+    ],
+    "contactParagraph" : "I'm currently open to work and get involved in new projects, so get in touch if you'd like to Hire me or work together.", 
+    "socialLinks" : {
+      "github" : "https://github.com/kesav2807",
+      "linkedin" : "https://www.linkedin.com/in/kesavansunder/"
+    }
+  }
+}
